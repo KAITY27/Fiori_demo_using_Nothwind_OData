@@ -19,7 +19,7 @@
 
 ## demoproject
 
-Northwind_Demo 1
+This is demo Fiori application using the northwind Odata service.
 
 ### Starting the generated app
 
